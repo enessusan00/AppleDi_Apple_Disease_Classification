@@ -1,0 +1,4 @@
+0 Sağlıklı Elma
+1 Lekeli Elma
+2 Çürük Elma
+3 Yara Kabuklu Elma
