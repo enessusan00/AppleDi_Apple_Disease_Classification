@@ -39,6 +39,7 @@ class _GalleryScreenState extends State<GalleryScreen> {
       threshold: 0.05,
       imageMean: 127.5,
       imageStd: 127.5,
+
     );
     setState(() {
       _results=recognitions!;
